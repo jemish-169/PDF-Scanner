@@ -23,13 +23,17 @@ The app is built using the MVVM pattern, which separates concerns and provides a
 - When a user creates a category and saves a file in it, a directory with the same name is created internally to store the PDF file.
 - Saving images of PDF pages creates another external directory for easy access and organization.
 
-## Screenshots
+## Screenshots  
 
-| Home screen | Rename and/or change category | Multiple select |
-|-------------|-------------|-------------|
-| ![1](https://github.com/user-attachments/assets/f9a4ecd2-8e38-4244-81f3-1451dc2e6564) | ![2](https://github.com/user-attachments/assets/1217b112-4f20-43ca-929d-e0801a74bd55)  | ![3](https://github.com/user-attachments/assets/d0e54b8b-a251-408c-a725-a3e997579c00) |
-
-
-| Scan/upload doc | Retouch document | Manage settings |
-|-------------|-------------|-------------|
-| ![4](https://github.com/user-attachments/assets/f6263ed9-1df7-440f-b886-4b191991b650) | ![5](https://github.com/user-attachments/assets/f1a9db67-7cb3-46f4-a603-d21e7eb17a8c) | ![6](https://github.com/user-attachments/assets/d07970eb-0ab8-4a88-a593-977f5f47d1d5) |
+<table>
+  <tr>
+    <td align="center"><b>Home Screen</b><br><img src="https://github.com/user-attachments/assets/f9a4ecd2-8e38-4244-81f3-1451dc2e6564" width="250"/></td>
+    <td align="center"><b>Rename and/or Change Category</b><br><img src="https://github.com/user-attachments/assets/1217b112-4f20-43ca-929d-e0801a74bd55" width="250"/></td>
+    <td align="center"><b>Multiple Select</b><br><img src="https://github.com/user-attachments/assets/d0e54b8b-a251-408c-a725-a3e997579c00" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Scan / Upload Document</b><br><img src="https://github.com/user-attachments/assets/f6263ed9-1df7-440f-b886-4b191991b650" width="250"/></td>
+    <td align="center"><b>Retouch Document</b><br><img src="https://github.com/user-attachments/assets/f1a9db67-7cb3-46f4-a603-d21e7eb17a8c" width="250"/></td>
+    <td align="center"><b>Manage Settings</b><br><img src="https://github.com/user-attachments/assets/d07970eb-0ab8-4a88-a593-977f5f47d1d5" width="250"/></td>
+  </tr>
+</table>
