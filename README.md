@@ -16,9 +16,6 @@ Get the Pro scanner app from Google Play: [https://play.google.com/store/apps/de
 - **Android with Jetpack Compose**: Utilizes modern Android development tools to create a sleek and responsive UI.
 - **MVVM Architecture**: Ensures a modular, testable, and maintainable code structure.
 
-## Code Structure
-The app is built using the MVVM pattern, which separates concerns and provides a clear structure:
-
 ### Directory Structure
 - When a user creates a category and saves a file in it, a directory with the same name is created internally to store the PDF file.
 - Saving images of PDF pages creates another external directory for easy access and organization.
