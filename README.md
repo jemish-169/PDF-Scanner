@@ -22,7 +22,7 @@ Get the PDF scanner app from Google Play: [https://play.google.com/store/apps/de
   - **MVVM + Clean Architecture** – Ensures a scalable, maintainable, and test-friendly codebase  
   - **Material Design** – Follows Google’s UI/UX guidelines for intuitive design  
   - **Animations** – Enhances user experience with meaningful transitions and effects
-  - **Navigation-3** – Navavigation between modules with Back-stack ownership
+  - **Navigation-3** – Navigation between modules with Back-stack ownership
   - **Jetpack-DataStore** – Flow based user preference saving
 
 ## Screenshots  
